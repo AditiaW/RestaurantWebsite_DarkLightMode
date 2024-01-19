@@ -23,11 +23,11 @@ This is a responsive restaurant website with dark/light mode, created using HTML
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AditiaW/coffee-shop-website.git
+   git clone https://github.com/AditiaW/RestaurantWebsite_DarkLightMode.git
    ```
 2. Open the project folder:
 
    ```bash
-   cd coffee-shop-website
+   cd RestaurantWebsite_DarkLightMode
    ```
 3. Open the index.html file in your preferred web browser.
